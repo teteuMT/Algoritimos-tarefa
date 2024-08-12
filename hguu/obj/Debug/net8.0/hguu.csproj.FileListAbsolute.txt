@@ -1,0 +1,14 @@
+D:\Users\20241170150006\Desktop\hguu\bin\Debug\net8.0\hguu.exe
+D:\Users\20241170150006\Desktop\hguu\bin\Debug\net8.0\hguu.deps.json
+D:\Users\20241170150006\Desktop\hguu\bin\Debug\net8.0\hguu.runtimeconfig.json
+D:\Users\20241170150006\Desktop\hguu\bin\Debug\net8.0\hguu.dll
+D:\Users\20241170150006\Desktop\hguu\bin\Debug\net8.0\hguu.pdb
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.AssemblyInfoInputs.cache
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.AssemblyInfo.cs
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.csproj.CoreCompileInputs.cache
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.dll
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\refint\hguu.dll
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.pdb
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\hguu.genruntimeconfig.cache
+D:\Users\20241170150006\Desktop\hguu\obj\Debug\net8.0\ref\hguu.dll

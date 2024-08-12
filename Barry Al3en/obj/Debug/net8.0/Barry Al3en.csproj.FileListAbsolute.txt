@@ -1,0 +1,14 @@
+D:\Users\20241170150006\Desktop\Barry Al3en\bin\Debug\net8.0\Barry Al3en.exe
+D:\Users\20241170150006\Desktop\Barry Al3en\bin\Debug\net8.0\Barry Al3en.deps.json
+D:\Users\20241170150006\Desktop\Barry Al3en\bin\Debug\net8.0\Barry Al3en.runtimeconfig.json
+D:\Users\20241170150006\Desktop\Barry Al3en\bin\Debug\net8.0\Barry Al3en.dll
+D:\Users\20241170150006\Desktop\Barry Al3en\bin\Debug\net8.0\Barry Al3en.pdb
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.AssemblyInfoInputs.cache
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.AssemblyInfo.cs
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.csproj.CoreCompileInputs.cache
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.dll
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\refint\Barry Al3en.dll
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.pdb
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\Barry Al3en.genruntimeconfig.cache
+D:\Users\20241170150006\Desktop\Barry Al3en\obj\Debug\net8.0\ref\Barry Al3en.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "03lbdJEIzDOeVT9G3+gO0gIMs1Tumqc7YXNSmjAHCyNQtupvM9R++ZgrgsHva+Qc2pM7Vp3uug1KwLLUguL2bQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\20241170150006\\Desktop\\hguu\\hguu.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Este host não é conhecido. (api.nuget.org:443)"
+    }
+  ]
+}
